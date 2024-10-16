@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+.Paginas
+{
+   text-align: right;
+   margin-top: 10px;
+   margin-right: 10px;
+}
+.Login
+label, textarea 
+{
+  display: block;
+}
+
+textarea 
+{
+  margin: 15px 0;
+  width: 25px;
+  height: 10px  
+}
+
+.logotipo{
+  background-color: rgb(3, 36, 19);
+}
